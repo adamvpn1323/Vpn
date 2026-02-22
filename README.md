@@ -1,4 +1,4 @@
-vless://239ac661-ef9d-408d-892d-7eabd7a68abb@rus.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇷🇺 📍h.a vpn ru | 1
+
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@rusm2.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇷🇺 📍h.a vpn ru | 2
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@fiad.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇫🇮 📍h.a vpn fi | 3
 vless://239ac661-ef9d-408d-892d-7eabd7a68abb@niderus.fluxevpn.ru:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇳🇱 📍h.a vpn nl | 4
