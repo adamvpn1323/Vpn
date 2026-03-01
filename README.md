@@ -1,4 +1,4 @@
-#profile-title: h.a | 🍏 ADAM VPN PREMIUM 🍏
+#profile-title:🍏 ADAM VPN PREMIUM 🍏
 
 #profile-update-interval: 1
 
@@ -10,7 +10,7 @@
 
 #subscription-userinfo: upload=0; download=0; total=9223372036854775807; expire=1816642800
 
-#profile-notice: ━━━━━━━━━━━━━━━\n   🍏 ADAM VPN 1 PREMIUM 🍏 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+#profile-notice: ━━━━━━━━━━━━━━━\n   🍏 ADAM VPN PREMIUM 🍏 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
 
 #profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
 
