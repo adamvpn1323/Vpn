@@ -1,6 +1,6 @@
 #profile-title:🍏 VPN PREMIUM 🍏
 
-#profile-update-interval: 1
+#profile-update-interval: 12
 
 #profile-subscription-url: https://raw.githubusercontent.com/adamvpn1323/vpn_adam/main/README.md
 
