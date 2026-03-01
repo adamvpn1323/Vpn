@@ -1,4 +1,32 @@
-#profile-title: 𝐀𝐃𝐀𝐌 𝐕𝐏𝐍 🏴
+#profile-title: h.a | ПРОСТОЙ ВПН 🧢
+
+#profile-update-interval: 1
+
+#profile-subscription-url: https://raw.githubusercontent.com/adamvpn1323/vpn_adam/main/README.md
+
+#support-url: https://wa.me/79659571323
+
+#profile-web-page-url: https://wa.me/79659571323
+
+#subscription-userinfo: upload=0; download=0; total=9223372036854775807; expire=1816642800
+
+#profile-notice: ━━━━━━━━━━━━━━━\n   🧢 ПРОСТОЙ ВПН 🧢\n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+
+#profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
+
+#profile-test-url: http://cp.cloudflare.com/generate_204
+
+#profile-test-interval: 300
+
+#profile-auto-switch: true
+
+#profile-allow-copy: false
+
+#profile-locked: true
+
+#profile-read-only: true
+
+#profile-prefer-ipv4: true
 
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 VPN 1 🏴
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 VPN 2 🏴
