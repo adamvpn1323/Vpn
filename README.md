@@ -1,4 +1,4 @@
-#profile-title:VPN PREMIUM 🧢
+#profile-title:VPN 📟
 
 #profile-update-interval: 12
 
@@ -10,7 +10,7 @@
 
 #subscription-userinfo: upload=0; download=0; total=0; expire=1816642800
 
-#profile-notice: ━━━━━━━━━━━━━━━\n   VPN PREMIUM 🧢 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+#profile-notice: ━━━━━━━━━━━━━━━\n   VPN 📟 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
 
 #profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
 
