@@ -1,6 +1,6 @@
 #profile-title:ОБХОД БЛОКИРОВОК
 
-#profile-update-interval: 6
+#profile-update-interval: 7
 
 #profile-subscription-url: https://raw.githubusercontent.com/adamvpn1323/vpn_adam/main/README.md
 
