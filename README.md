@@ -1,4 +1,4 @@
-#profile-title:VPN 📟
+#profile-title:ОБХОД БЛОКИРОВОК 📶
 
 #profile-update-interval: 12
 
