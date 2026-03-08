@@ -49,7 +49,7 @@
 #profile-footer-text: Спасибо, что выбрали нас!
 #profile-description: Лучшая защита от глушилок 2026
 #profile-notice-style: bold
-#announce:Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
+#announce:Ecли не работает VPN, нажми на 🔄 чтобы обновить подписку или ㅤㅤㅤㅤпопробуй сменить сервер.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤADAM VPN 🥇
 #profile-announce-color: #00FF00
 #profile-welcome-message: Добро пожаловать в ADAM VPN! 🚀
 
