@@ -30,6 +30,29 @@
 
 #auto-continue: true
 
+#profile-sort: delay
+#profile-hide-unreachable: true
+#profile-udp-relay: true
+#profile-exclusive: true
+#profile-emoji: true
+#profile-auto-start: true
+#profile-hide-details: true
+#profile-read-only: true
+#profile-badge: VIP
+#profile-update-on-open: true
+#profile-hide-protocol: true
+#profile-accent-color: #000000
+#profile-ui-mode: dark
+#profile-allow-share: false
+#subscription-limit: 1
+#profile-owner: ADAM VPN ⚡️
+#profile-footer-text: Спасибо, что выбрали нас!
+#profile-description: Лучшая защита от глушилок 2026
+#profile-notice-style: bold
+#announce:Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
+#profile-announce-color: #00FF00
+#profile-welcome-message: Добро пожаловать в ADAM VPN! 🚀
+
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 VPN 🎗️ 1
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 VPN 🎗️ 2
 vless://50b5d92c-7ca3-4895-845d-c0e6036315be@yt.youtuber-vps.com:443?security=reality&encryption=none&pbk=8H6MokHnFnxNRzJzsuGwKdkiRjmLpf6gPVaNovVKzks&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yt.youtuber-vps.com&sid=b95d09fc94955ba4#🇵🇱 VPN 🎗️ 3
