@@ -1,4 +1,4 @@
-#profile-title:ОБХОД БЛОКИРОВОК
+#profile-title:ОБХОД БЛОКИРОВОК🇱🇻
 
 #profile-update-interval: 1
 
